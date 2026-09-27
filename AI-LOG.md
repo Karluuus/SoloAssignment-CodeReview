@@ -1,9 +1,3 @@
-
-Unterstützung beim Erstellen und Strukturieren der README-Datei.
-Korrektur und Verbesserung von grammatikalischen Fehlern und Rechtschreibfehlern in meinen Texten.
-Unterstützung beim CSS Design mithilfe von KI.
-
-
 # AI-LOG
 
 - Prompt: "Wie setze ich das QuickNotes-Projekt gemäß der geforderten Dateistruktur und dem Gerüst um?"
@@ -22,10 +16,14 @@ Unterstützung beim CSS Design mithilfe von KI.
   Übernommen: Das `setup`-Attribut in `<script setup>` in App.vue wiederhergestellt.
   Geändert/verstanden: Verstanden, dass in Vue 3 SFCs Variablen und Imports nur bei `<script setup>` automatisch an das Template gebunden werden.
 
+- Prompt: "Kannst du mir beim CSS-Styling für die Notiz-Karten, Tags und das Formular helfen?"
+  Übernommen: Design-Vorschläge für ein klares Layout (Karten-Schatten, Flexbox-Ausrichtung und Pillen-Badges für Tags).
+  Geändert/verstanden: Verstanden, wie mit scoped CSS die Stile isoliert bleiben und das Design einheitlich aufeinander abgestimmt wird.
+
 - Prompt: "Text in der SearchBar ist durch falsche Kontrastfarben kaum lesbar"
   Übernommen: Explizite CSS-Eigenschaften (color und background-color) in SearchBar.vue.
   Geändert/verstanden: Erkannt, dass Standard-Styles von Vite (z. B. Dark-Mode) Formularfelder überschreiben können und man Textfarben explizit definieren sollte.
 
-- Prompt: "Bitte unterstütze mich dabei, die README und das AI-LOG sinnvoll und übersichtlich zu strukturieren und zu formulieren."
-  Übernommen: Gliederungsvorschlag für die README und Argumentationsansätze für die Fragen.
-  Geändert/verstanden: Die Erklärungen zum Ein-Weg-Datenfluss und den getrennten Reaktivitäts-Instanzen verinnerlicht und in eigene Worte übertragen.
+- Prompt: "Bitte prüfe meine Entwürfe für die README und das AI-LOG auf Rechtschreibung, Grammatik und verständliche Formulierungen."
+  Übernommen: Korrekturen bei Rechtschreibung und Grammatik sowie sprachliche Glättung meiner selbst verfassten Erklärungen.
+  Geändert/verstanden: Fehler korrigiert und verstanden, wie die technischen Fachbegriffe (z. B. Ein-Weg-Datenfluss, getrennte Reaktivität) im Text präzise verwendet werden.
