@@ -15,7 +15,9 @@ const visibleNotes = filteredNotes(searchTerm)
 <template>
   <main class="app-container">
     <header>
+      <br><br>
       <h1>QuickNotes</h1>
+      <br><br>
     </header>
 
     <!-- Suchleiste mit v-model -->
